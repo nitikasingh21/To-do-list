@@ -28,11 +28,11 @@ Click the "Delete" button next to a task to remove it.
 
 
 ## Collaborators
-nitikasingh21 : Added the "Add Task" functionality and designed the frontend of the project.
+Member 1 : Added the "Add Task" functionality and designed the frontend of the project.
 
-sadhvidupper : Added the "View Task" functionality.
+Member 2 : Added the "View Task" functionality.
 
-yashikagithub : Added the "Delete Task" functionality
+Member 3 : Added the "Delete Task" functionality
 
 ## Future Enhancements
 Add functionality to mark tasks as completed.

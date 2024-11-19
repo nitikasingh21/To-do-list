@@ -25,6 +25,7 @@ View your tasks displayed below the input field.
 Click the "Delete" button next to a task to remove it.
 
 ## Main interface
+![image](https://github.com/user-attachments/assets/9f5ef500-4fe8-4aa2-9837-1bb40909bc92)
 
 
 ## Collaborators
